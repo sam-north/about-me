@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(225, 239, 255);
+    color: rgb(9, 0, 29);
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+}
+
+img{
+    height:150px;
+}
+
+
+#menu{
+    background-color: #586F7C;
+    color: white;
+    padding: 10px;
+}
+
+#menu a{
+    color:#8EDCE6;
+    padding: 10px;
+    text-decoration: none;
+    border-right: 1px #71828c  solid;
+}
+
+#menu a:visited:hover, #menu a:hover{
+    color: #0B032D;
+    background-color: #8EDCE6;
+}
+
+#menu a:visited{
+    color: #8EDCE6;
+}
